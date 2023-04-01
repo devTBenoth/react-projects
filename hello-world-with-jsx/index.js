@@ -6,7 +6,7 @@ const App = () => {
     return(
         /* component içerisinde bir return bulunmak zorunda. JSX kodları yazmak için return kullanılır.*/
         React.createElement("div", null,
-        React.createElement("h2", null, "beko"))
+        React.createElement("h2", null, "Hello World"))
     )
 }
 
